@@ -11,7 +11,7 @@ namespace Education003
         static void Main(string[] args)
         {
             Console.WriteLine("Привет!");
+            Console.WriteLine("Это сообщение видно?");
         }
     }
 }
-#if
